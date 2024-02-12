@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "typeindex": "cpp",
+    "typeinfo": "cpp",
+    "*.tcc": "cpp",
+    "ostream": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "regex": "cpp",
+    "utility": "cpp",
+    "valarray": "cpp",
+    "iostream": "cpp",
+    "forward_list": "cpp",
+    "list": "cpp"
+  }
+}
